@@ -56,3 +56,21 @@ docs/_build/
 
 # PyBuilder
 target/
+
+./config/config.yml
+config/config\.yml
+
+\.idea/dictionaries/JayDee\.xml
+
+\.idea/inspectionProfiles/Project_Default\.xml
+
+\.idea/Minecraft Controller\.iml
+
+\.idea/misc\.xml
+
+\.idea/modules\.xml
+
+\.idea/vcs\.xml
+
+\.idea/workspace\.xml
+
